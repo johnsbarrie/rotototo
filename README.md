@@ -1,6 +1,6 @@
-# Rototo
+# RotoToto
 
-> This small application designed to allow Dragonframe to synchronise a video projector for rotoscopy animation.
+> RotoToto a small mac application designed to allow Dragonframe to synchronise a video projector for rotoscopy animation.
 
 
 ### Install 
